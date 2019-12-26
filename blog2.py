@@ -32,7 +32,7 @@ def getrange(n,d,q):
     return print("The maximal "+str(n)+"-code with minimum distance "+str(d)+" over "+str(q)+" characters has cardinality between "+str(ceil(GilbVasha(n,d,q)))+" and "+str(min(Singleton(n,d,q),floor(Hamming(n,d,q)))))
 
 
-# Added in for a bit of fun, used in some code that was later delted.
+# Added in for a bit of fun, used in some code that was later deleted.
 
 from math import log
 
