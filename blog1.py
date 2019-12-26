@@ -1,4 +1,4 @@
-#Note this is a sub-file intended for a larger project
+# This is the code associated with blog post #1 on https://sfmaths.home.blog
 
 from pyfinite import ffield
 import numpy
